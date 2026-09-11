@@ -1,0 +1,9 @@
+{
+  "name": "ankit-web-time-real",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node dev.mjs", "dev:client": "vite", "api": "node server.mjs", "dev:full": "node dev.mjs", "build": "tsc -b && vite build", "start": "node server.mjs" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "latest", "recharts": "latest" },
+  "devDependencies": { "@types/react": "latest", "@types/react-dom": "latest" }
+}

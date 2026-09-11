@@ -1,0 +1,21 @@
+
+> ankit-web-time-real@0.0.0 dev
+> node dev.mjs
+
+(node:7676) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+
+> ankit-web-time-real@0.0.0 api
+> node server.mjs
+
+
+> ankit-web-time-real@0.0.0 dev:client
+> vite
+
+Smart Coach Guardian API listening on http://localhost:8787 (provider: DEMO - add IRCTC_API_KEY to .env for live data)
+
+  [32m[1mVITE[22m v8.2.2[39m  [2mready in [0m[1m319[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.243.181.173:[1m5173[22m/[39m  [2mWi-Fi[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
